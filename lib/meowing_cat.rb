@@ -5,6 +5,6 @@ class Cat
   attr_accessor:name 
 
 def meow
-  puts = "meow!"
+  @cat = "meow"
   end 
 end
